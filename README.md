@@ -7,4 +7,3 @@ This gizmo will allow you to create three-dimensional chromatic aberration and b
 Tutorials to get you started in Z-Opticals
 https://www.youtube.com/watch?v=vxA-AjtWS60&list=PLPqEIUVfnnz6EsFKMyTAJES70OiOkK2fE
 
-![zdefocus or pgbokeh](https://github.com/user-attachments/assets/b56b7b25-b6b9-4b9a-9c4f-91b32a79d20b)
