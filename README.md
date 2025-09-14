@@ -1,7 +1,10 @@
 
 <img width="1524" height="458" alt="poster_01 - banner" src="https://github.com/user-attachments/assets/21cd742e-54ec-4b03-940a-b2a4434ea1c3" />
 
-# Z-Opticals v1.2.1 for nk 15.2v1 is fully tested | Possibly working backwards up to 15.0 (not fully tested)
+# Three-Dimensional Defocusing and Aberration for Foundry Nuke
+
+
+Z-Opticals v1.2.1 for nk 15.2v1 is fully tested | Possibly working backwards up to 15.0 (not fully tested)
 
 Legacy Z-Opticals v1.2 supports nk 15.1 and 14.0v2
 
