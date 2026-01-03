@@ -11,7 +11,7 @@ Legacy Z-Opticals v1.2 supports nk 15.1 and 14.0v2
 This gizmo will allow you to create three-dimensional chromatic aberration and bokeh in Nuke, similar to real optics.
 
 #
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/nicolaslandajo
+☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
 
 ⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it, and that support means the world
 
