@@ -1,22 +1,10 @@
 # Three-Dimensional Defocusing and Aberration for Foundry Nuke
 
-
 Z-Opticals v1.2.1 for nk 15.2v1 is fully tested | Possibly working backwards up to 15.0 (not fully tested)
 
 Legacy Z-Opticals v1.2 supports nk 15.1 and 14.0v2
 
 This gizmo will allow you to create three-dimensional chromatic aberration and bokeh in Nuke, similar to real optics.
-
-#
-Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
-
-Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it
-
-Share this tool with anyone you think would enjoy it!
-
-Report any bugs you come across
-
-Contribute improvements
 
 #
 Tutorials to get you started in Z-Opticals
