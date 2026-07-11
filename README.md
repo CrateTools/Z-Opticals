@@ -4,7 +4,7 @@
 
 Z-Opticals v1.2.1 for nk 15.2v1 is fully tested | Possibly working backwards up to 15.0 (not fully tested)
 
-This gizmo allows you to create three-dimensional chromatic aberration and bokeh defocusing in Nuke attempting to emulate real optical behavior for the first time.
+This gizmo brings the first truly three-dimensional chromatic aberration and accurate bokeh defocus to Nuke — emulating real optical behavior for the first time
 
 #
 Tutorials to get you started in Z-Opticals
