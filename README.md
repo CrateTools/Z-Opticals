@@ -2,7 +2,7 @@
 
 # Three-Dimensional Defocusing and Aberration for Foundry Nuke
 
-Z-Opticals v1.2.1 for nk 15.2v1 is fully tested | Possibly working backwards up to 15.0 (not fully tested)
+Z-Opticals v1.2.1 for nk 15.2v1, 16 and 17
 
 This gizmo brings the first truly three-dimensional chromatic aberration and accurate bokeh defocus to Nuke — emulating real optical behavior for the first time
 
